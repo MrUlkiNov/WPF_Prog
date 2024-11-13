@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samba\\source\\repos\\Nurik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\WPF.csproj|c:\\users\\samba\\source\\repos\\nurik\\nurik\\apps_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\WPF.csproj|solutionrelative:nurik\\apps_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\calculate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\calculate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\calculate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\calculate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\apps_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\apps_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\db_wpf.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\db_wpf.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\pbgm_l3sb_210528.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\pbgm_l3sb_210528.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|C:\\Users\\samba\\source\\repos\\Nurik\\nurik\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02B86AA-E3A2-4CC4-A760-77A3A9053372}|Nurik\\Nurik.csproj|solutionrelative:nurik\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apps_window.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Apps_window.xaml",
+              "RelativeDocumentMoniker": "Nurik\\Apps_window.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Apps_window.xaml",
+              "RelativeToolTip": "Nurik\\Apps_window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T21:40:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Nurik\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\ApplicationContext.cs",
+              "RelativeToolTip": "Nurik\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-09T11:32:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Register.xaml",
+              "RelativeDocumentMoniker": "Nurik\\Register.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Register.xaml",
+              "RelativeToolTip": "Nurik\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T10:40:14.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculate.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Calculate.xaml",
+              "RelativeDocumentMoniker": "Nurik\\Calculate.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Calculate.xaml",
+              "RelativeToolTip": "Nurik\\Calculate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T16:58:21.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Nurik\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Login.xaml.cs",
+              "RelativeToolTip": "Nurik\\Login.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC0AAAAuAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-09T11:47:33.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculate.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Calculate.xaml.cs",
+              "RelativeDocumentMoniker": "Nurik\\Calculate.xaml.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Calculate.xaml.cs",
+              "RelativeToolTip": "Nurik\\Calculate.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-09T16:58:46.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Nurik\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Register.xaml.cs",
+              "RelativeToolTip": "Nurik\\Register.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBUAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-09T10:40:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Nurik\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\MainWindow.xaml",
+              "RelativeToolTip": "Nurik\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T10:34:38.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Login.xaml",
+              "RelativeDocumentMoniker": "Nurik\\Login.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Login.xaml",
+              "RelativeToolTip": "Nurik\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T11:45:18.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Nurik\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Nurik\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-09T10:34:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DB_WPf.db",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\DB_WPf.db",
+              "RelativeDocumentMoniker": "Nurik\\DB_WPf.db",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\DB_WPf.db",
+              "RelativeToolTip": "Nurik\\DB_WPf.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-20T15:32:44.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Apps_window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Apps_window.xaml.cs",
+              "RelativeDocumentMoniker": "Nurik\\Apps_window.xaml.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\Apps_window.xaml.cs",
+              "RelativeToolTip": "Nurik\\Apps_window.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-09T14:29:34.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pbgm_l3sb_210528.jpg",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\pbgm_l3sb_210528.jpg",
+              "RelativeDocumentMoniker": "Nurik\\pbgm_l3sb_210528.jpg",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\pbgm_l3sb_210528.jpg",
+              "RelativeToolTip": "Nurik\\pbgm_l3sb_210528.jpg",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE\u002BSURBVDhPYxhwwAgirKys/j9//hwsQCyQlJRkOHbsGCPYAEVFxf/79\u002B8HSxALHB0dGe7fv8/IBOXjBTcPdzLsmqzFcOtIF1QEAYgy4NGFRQz//3wD0\u002BiAKAPkDeMZmFi4GeQM4qEiCIBiwJ\u002B//xmat71i2H71M1QEAtRsyhhcc68C6VKoCALADQBpzl35nOHGi58M9VteMmy78gUqAwEP3/1m2H8LVQwE4AaANP/6959hQbwMw8I4GYaGrS/ghtx784shfM4jhrK1zxkWnXwPFoMBFigN1jwjUoqBlZmRQVOSA2xI/KInDE8/ijDMPfqWocRNhMFCgYshEmgQMoC7AKYZBmCGrD73kaHYRYQhxICfQUaAlWF5ihzD7MPvoKqgKZHUhPTkw2\u002BG2EA34hMSOgC5BAYozgtQLrmAgQEAs0d3wYnRyrEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-20T15:20:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\App.xaml",
+              "RelativeDocumentMoniker": "Nurik\\App.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\App.xaml",
+              "RelativeToolTip": "Nurik\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T10:45:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\App.config",
+              "RelativeDocumentMoniker": "Nurik\\App.config",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\App.config",
+              "RelativeToolTip": "Nurik\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-09T11:29:22.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\User.cs",
+              "RelativeDocumentMoniker": "Nurik\\User.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Nurik\\Nurik\\User.cs",
+              "RelativeToolTip": "Nurik\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-09T11:30:39.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
